@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ComplexForms</string>
+    <string name="name">Name</string>
+    <string name="regno">Reg. No.</string>
+    <string name="gender">Gender</string>
+    <string name="f">F</string>
+    <string name="m">M</string>
+    <string name="cancel">Cancel</string>
+    <string name="continueButton">Continue</string>
+    <string name="program_registration_system">Program Registration System</string>
+    <string name="course">Course</string>
+
+    <string-array name="courses">
+        <item>Agriculture</item>
+        <item>Computer Science</item>
+        <item>Economics</item>
+        <item>Statistics</item>
+    </string-array>
+</resources>
